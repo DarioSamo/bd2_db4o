@@ -1,11 +1,11 @@
 import java.util.Date;
 
-class MateriaCursadas {
+class MateriaCursada {
     private String nombre;
     private int nota;
     private Date fecha;
 
-    public MateriaCursadas(String nombre, int nota, Date fecha) {
+    public MateriaCursada(String nombre, int nota, Date fecha) {
         this.nombre = nombre;
         this.nota = nota;
         this.fecha = fecha;
